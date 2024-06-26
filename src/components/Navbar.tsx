@@ -220,7 +220,7 @@ const Navbar = () => {
       <nav className="border border-gray-200">
         <div className="max-w-screen-xl py-3 mx-auto">
           <div className="flex items-center">
-            <ul className="flex flex-row md:p-2 gap-2 font-medium md:pl-12 mt-0 space-x-8 rtl:space-x-reverse text-sm">
+            <ul className="flex flex-row md:p-2 gap-2 font-medium md:pl-4 mt-0 space-x-8 rtl:space-x-reverse text-sm">
               <li>
                 <a
                   href="#"
@@ -251,7 +251,7 @@ const Navbar = () => {
                   href="#"
                   className="text-gray-900 md:text-[18px] dark:text-gray-400 hover:underline hover:text-orange-600"
                 >
-                 Messages
+                  Messages
                 </a>
               </li>
             </ul>
